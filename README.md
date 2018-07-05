@@ -27,7 +27,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 # Example dependencies
 target 'MyAppTargetName' do
     
-    pod 'Remotli', '~> 1.0'
+    pod 'Remotli', '~> 1.0.0'
 
 end
 ```
