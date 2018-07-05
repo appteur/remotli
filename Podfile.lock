@@ -1,0 +1,16 @@
+PODS:
+  - SDCoreUtilities (00.00.01)
+
+DEPENDENCIES:
+  - SDCoreUtilities (from `../SDCoreUtilities`)
+
+EXTERNAL SOURCES:
+  SDCoreUtilities:
+    :path: "../SDCoreUtilities"
+
+SPEC CHECKSUMS:
+  SDCoreUtilities: a8e04bfc033f0f58d97cfef597aaa984994f30ac
+
+PODFILE CHECKSUM: 6ee571e0a319c24f07e72052988190c4f42751ae
+
+COCOAPODS: 1.5.3
